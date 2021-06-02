@@ -3,11 +3,16 @@
     font-size: 16px;
 }
 body{
-    background-color: rgb(54, 54, 99);
+    background-color: rgb(43, 38, 40);
 
 }
+h3{
+    text-align: center;
+}
+ 
 header{
     background-color: aqua;
+     
 }
 main{
     background-color: white;
