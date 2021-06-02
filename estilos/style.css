@@ -6,6 +6,9 @@ body{
     background-color: rgb(54, 54, 99);
 
 }
+header{
+    background-color: aqua;
+}
 main{
     background-color: white;
     width: 500px;
